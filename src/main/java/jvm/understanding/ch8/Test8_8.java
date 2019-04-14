@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch8;
 
 /**
  * {@link Test8_8} 代码清单8-8 方法动态分派演示

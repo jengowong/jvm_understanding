@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch7;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -31,8 +31,8 @@ public class Test7_8 {
         Object obj1 = cl.newInstance();
         System.out.println(obj1.getClass());
         System.out.println(obj1.getClass().equals(cl));
-        System.out.println(obj1 instanceof jvm.understanding.Test7_8);
+        System.out.println(obj1 instanceof Test7_8);
         Object obj2 = new Test7_8();
-        System.out.println(obj2 instanceof jvm.understanding.Test7_8);
+        System.out.println(obj2 instanceof Test7_8);
     }
 }

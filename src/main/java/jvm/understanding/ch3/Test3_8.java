@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch3;
 
 /**
  * {@link Test3_8} 代码清单3-8 动态对象年龄判断

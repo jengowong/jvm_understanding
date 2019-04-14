@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch8;
 
 /**
  * {@link Test8_5} 代码清单8-5 方法静态解析演示

@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch4;
 
 import java.util.ArrayList;
 import java.util.List;

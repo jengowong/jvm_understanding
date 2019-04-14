@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch3;
 
 /**
  * {@link Test3_6} 代码清单3-6 大对象直接进入老年代

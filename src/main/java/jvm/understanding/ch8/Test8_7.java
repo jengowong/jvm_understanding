@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch8;
 
 import java.io.Serializable;
 

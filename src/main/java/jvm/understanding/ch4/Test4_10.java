@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch4;
 
 /**
  * {@link Test4_10} 代码清单4-10 死锁代码样例

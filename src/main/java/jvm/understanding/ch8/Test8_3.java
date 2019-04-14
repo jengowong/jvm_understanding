@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch8;
 
 /**
  * {@link Test8_3} 代码清单8-3 局部变量表Slot复用对垃圾收集的影响之三

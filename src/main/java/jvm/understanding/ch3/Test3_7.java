@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch3;
 
 /**
  * {@link Test3_7} 代码清单3-7 长期存活的对象进入老年代

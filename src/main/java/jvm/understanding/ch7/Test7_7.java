@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch7;
 
 /**
  * {@link Test7_7} 代码清单7-7 字段解析

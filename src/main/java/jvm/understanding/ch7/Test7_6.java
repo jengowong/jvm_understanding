@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch7;
 
 /**
  * {@link Test7_6} 代码清单7-6 &lt;clinit&gt;()方法执行顺序

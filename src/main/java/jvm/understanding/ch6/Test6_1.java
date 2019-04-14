@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch6;
 
 /**
  * {@link Test6_1}

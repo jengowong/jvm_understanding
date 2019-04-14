@@ -1,4 +1,4 @@
-package jvm.understanding;
+package jvm.understanding.ch3;
 
 /**
  * {@link Test3_9} 代码清单3-9 空间分配担保
